@@ -39,7 +39,7 @@
   - 오류 데이터 확인 및 색상 시각화 처리  
 
 <p align="left">
-  <img src="./images/crawling.png" width="650" alt="크롤링"/>
+  <img src="./images/crawling.png" width="720" alt="크롤링"/>
 </p>
 
 <br>
