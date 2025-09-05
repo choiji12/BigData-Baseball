@@ -33,31 +33,43 @@
 
 <br>
 
-## 📊 분석 방법론
+## 📊 분석 시각화
 - **Scatter Plot**: 순위와 지표 분포 시각화 (이상치 존재)  
 - **Box Plot**: 이상치 제거 후 직관적 비교 가능  
-- **상관계수(Correlation Analysis)**: 지표와 순위 간의 연관성 수치화  
+- **Corr Graph**: 지표와 순위 간의 연관성 수치화 및 시각화  
 - **시대 구분**:  
   - 6개 구단 (1982~1985)  
   - 8개 구단 (1991~2012)  
   - 10개 구단 (2015~현재)
 
+**Scatter Plot**
+<br>
+
+<p align="left">
+  <img src="./images/scatter.png" width="650" alt="scatter"/>
+</p>
+
+<br>
+
+**Box plot**
+<br>
+
 <p align="left">
   <img src="./images/box.png" width="650" alt="박스플롯"/>
 </p>
 
 <br>
 
-## 📈 시각화
-- 순위별 Box Plot  
-- 상관계수 Heatmap / Graph  
-- 드롭다운 위젯을 통한 지표별 비교 (Colab 기반)  
+
+**Corr Graph**
+<br>
 
 <p align="left">
-  <img src="./images/box.png" width="650" alt="박스플롯"/>
+  <img src="./images/corr.png" width="650" alt="corr"/>
 </p>
 
 <br>
+
 
 ## 🏆 결과 및 결론
 - **가장 높은 상관관계 지표**:  
