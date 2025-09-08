@@ -14,7 +14,7 @@
 ## 📖 프로젝트 개요
 - **주제 선정 이유**: KBO 정규시즌 데이터 속에서 팀 성적을 좌우하는 핵심 타격 지표를 규명하기 위함  
 - **목표**: 팀 순위와 타격 지표 간의 상관관계를 분석하여, 성적에 가장 큰 영향을 주는 요인을 도출  
-- **환경**: Python (Google Colab) 기반 분석 환경  
+- **환경**: Google Colab
 - **데이터 출처**: [STATIZ](http://www.statiz.co.kr/) (1982~2022 시즌 데이터)  
 - **데이터 형태**: CSV (타격 지표, 팀 순위 데이터셋)
 <br>
@@ -87,7 +87,7 @@
 <br>
 
 ## ⚙️ 사용 기술
-- **언어/환경**: Python (Google Colab)  
+- **언어**: Python  
 - **데이터 수집**: BeautifulSoup, CSV  
 - **분석/시각화**: Pandas, Matplotlib, Seaborn  
 - **문서화**: PPT, Word
